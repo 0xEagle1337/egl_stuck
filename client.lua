@@ -35,5 +35,5 @@ end
 
 RegisterNetEvent('message')
 AddEventHandler('message', function(message)
-    TriggerEvent('chatMessage', loale['system'], {255, 0, 0}, message)
+    TriggerEvent('chatMessage', locale['system'], {255, 0, 0}, message)
 end)

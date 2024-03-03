@@ -12,15 +12,9 @@ shared_scripts {
 }
 
 client_scripts {
-    'locales/fr.lua',
-    'locales/en.lua',
-    'config.lua',
     'client.lua',
 }
 
 server_scripts {
-    'locales/fr.lua',
-    'locales/en.lua',
-    'config.lua',
     'server.lua',
 }
