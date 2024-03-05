@@ -7,6 +7,7 @@ author 'Eagle'
 version '1.0.0'
 
 shared_scripts {
+    'locales_init.lua',
     'locales/*.lua',
     'config.lua',
 }
